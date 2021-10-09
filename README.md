@@ -12,7 +12,7 @@ This code is based on paper [*Photo-Realistic Single Image Super-Resolution Usin
 - tensorboard               2.6.0                    pypi_0 
 
 # Test Dataset
-Anime avator dataset
+[Anime avator dataset](https://drive.google.com/uc?id=1IGrTr308mGAaCKotpkkm8wTKlWs9Jq-p) 
 
 # Structure 
 + model.py: Network model of Generator and Discriminator
@@ -25,7 +25,9 @@ Anime avator dataset
 The visualization of training process are shown below: 
 ![result1](https://github.com/huzihan0525/SRGAN/blob/main/images/loss_result.png)
 ![result1](https://github.com/huzihan0525/SRGAN/blob/main/images/image_result.png)
-Some of the test results are shown below:
+Some of the training results are shown below:
+![result1](https://github.com/huzihan0525/SRGAN/blob/main/images/training_result.png)
+Some of the test results are shown below: (images from Internet)
 ![result1](https://github.com/huzihan0525/SRGAN/blob/main/images/result1.png)
 ![result2](https://github.com/huzihan0525/SRGAN/blob/main/images/result2.png)
 ![result3](https://github.com/huzihan0525/SRGAN/blob/main/images/result3.png)
