@@ -19,6 +19,7 @@ Anime avator dataset
 + srgan.py: Training SRGAN network
 + srgan_eval.py: Evaulate the network performance
 + logs: Tensorboard logs visualizing the training process (check by instruction 'tensorboard --logdir=logs') 
++ data: Images dataset
 
 # Result Demonstration
 The visualization of training process are shown below: 
