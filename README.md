@@ -9,15 +9,26 @@ This code is based on paper [*Photo-Realistic Single Image Super-Resolution Usin
 - numpy                     1.20.1           py38h34a8a5c_0
 - torchvision               0.8.2                py38_cu110
 - matplotlib                3.3.4            py38haa95532_0
+- tensorboard               2.6.0                    pypi_0 
 
 # Test Dataset
-动漫头像数据集
+Anime avator dataset
+
+# Structure 
++ model.py: Network model of Generator and Discriminator
++ srgan.py: Training SRGAN network
++ srgan_eval.py: Evaulate the network performance
++ logs: Tensorboard logs visualizing the training process (check by instruction 'tensorboard --logdir=logs') 
 
 # Result Demonstration
-Some of the results are shown below:
+The visualization of training process are shown below: 
+![result1](https://github.com/huzihan0525/SRGAN/blob/main/images/loss_result.png)
+![result1](https://github.com/huzihan0525/SRGAN/blob/main/images/image_result.png)
+Some of the test results are shown below:
 ![result1](https://github.com/huzihan0525/SRGAN/blob/main/images/result1.png)
 ![result2](https://github.com/huzihan0525/SRGAN/blob/main/images/result2.png)
 ![result3](https://github.com/huzihan0525/SRGAN/blob/main/images/result3.png)
 ![result4](https://github.com/huzihan0525/SRGAN/blob/main/images/result4.png)
+
 
 
