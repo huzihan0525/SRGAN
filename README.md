@@ -15,6 +15,6 @@ This code is based on paper [*Photo-Realistic Single Image Super-Resolution Usin
 
 # Result Demonstration
 Some of the results are shown below:
-![result1](public/images/result1.jpg)
+![result1](https://github.com/huzihan0525/SRGAN/blob/main/images/result1.jpg)
 
 
