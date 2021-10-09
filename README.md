@@ -14,6 +14,7 @@ This code is based on paper [*Photo-Realistic Single Image Super-Resolution Usin
 动漫头像数据集
 
 # Result Demonstration
-
+Some of the results are shown below:
+![result1](public/images/result1.jpg)
 
 
